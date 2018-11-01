@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "Github Projects"
+permalink: /github/
+author_profile: false
+share: false
+sitemap: false
+---
+
+{% include base_path %}
+
+<h3>Repositories</h3>
+{% for repository in site.github.public_repositories %}
+
+<h2 class="arhive__item-title" itemprop="headline"><a href="{{ repository.html_url }}">{{ repository.name }}</a></h2>
+    <p class="page__meta"><i class="fa fa-star" aria-hidden="true"></i> {{ repository.stargazers_count }} 
+    <i class="fa fa-code-fork" aria-hidden="true"></i> {{ repository.forks_count }} 
+    <i class="fa fa-code" aria-hidden="true"></i> {{ repository.language }} </p>
+<p class="archive__item-excerpt" itemprop="description">{{ repository.description }} <a href="{{ repository.homepage }}">{{ repository.homepage }}</a></p>
+
+{% endfor %}
+
