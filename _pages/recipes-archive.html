@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Recipes"
+permalink: /recipes/
+author_profile: false
+share: false
+sitemap: false
+---
+
+{% include base_path %}
+
+{% for post in site.recipes %}
+  {% include archive-single.html %}
+{% endfor %}
