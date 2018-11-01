@@ -18,7 +18,8 @@ title: Venu Gopal Kakarla
 email: 
 description: Personal Website
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://vgk2.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+imgurl: "https://vg.github.io/images/"
 author: 
   name: Venu Gopal Kakarla
   twitter:
@@ -73,6 +74,21 @@ exclude:
   - vendor/ruby/
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
+
+# Collections
+collections:
+  writing:
+    output: true
+    permalink: /:collection/:categories/:path/
+  projects:
+    output: true
+    permalink: /:collection/:categories/:path/
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  speaking:
+    output: true
+    permalink: /:collection/:categories/:path/
 
 # Front Matter Defaults
 defaults:
