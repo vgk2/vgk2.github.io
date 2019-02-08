@@ -5,8 +5,6 @@ excerpt: ""
 categories:
   - Thesis
 ---
-{% include base_path %}
-{% include toc icon="columns" title="Thesis" %}
 
 ## Keywords ##
 * Course Design
