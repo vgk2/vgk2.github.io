@@ -5,7 +5,6 @@ excerpt: ""
 categories:
   - OpenBSD
 ---
-{% include base_path %}
 
 ## Read Here ##
 [https://vg.gitbooks.io/openbsd-handbook/]
