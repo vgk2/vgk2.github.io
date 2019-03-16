@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/vgk2
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vgk2.github.io
+  * I am vgk2 (https://keybase.io/vgk2) on keybase.
+  * I have a public key with fingerprint 7C98 1BE5 2B9F 3529 D6A1  EFD3 6125 854C 369A C4B0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01164a4eea7dfd36d62dbf14542efefc70b8aa2c016fc372c690307dc2c19495c5d60a",
+      "fingerprint": "7c981be52b9f3529d6a1efd36125854c369ac4b0",
+      "host": "keybase.io",
+      "key_id": "6125854c369ac4b0",
+      "kid": "01164a4eea7dfd36d62dbf14542efefc70b8aa2c016fc372c690307dc2c19495c5d60a",
+      "uid": "ff11c54278e9fa91395f34ae9537a319",
+      "username": "vgk2"
+    },
+    "service": {
+      "hostname": "vgk2.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1552720097,
+  "expire_in": 157680000,
+  "prev": "da758615ee58294f0e5268e2e9c813f4d7714e45bd2957438048e3355349865f",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMFCAnicrVK/axRBFN6LGvVEYgpjYzUgNkeY37OzoqU2VhbaJB6zM2/u1kt2L7t7
+p2eInSBoERAErawEEUSE/AEJqbS82kJQW0urA2dPBQtLpxnmve/73vfevMPTR6L2
+irnw8Lp8cfiu9XH/2Shae/Ly8zZKCzdByTYawPyCDQdV3R1kDiUIEyK54QBGOe+Y
+dJK61BMuOAUP3iqcxsZQi4n0lilqpcYMK2epJZprYYWT2KAO8lneg3JYZnkdZJXV
+MUlB0FR7Jqh20hBo9AkVseCWSW0sT3Eg9ouqYQRzqalgNStCLDy6c3v/wP9n36O5
+nPeE2MBVMWhvNGFaeMYNaMGUYUQ3wArK3GxCQI97A4p2OihExpmFZqhNF39lV3tZ
+3R+lv7oZlkVd2GIj5Pp1PayShltPhg34LqTd3zLdNMtdmGJgjKGssiJHCQlIW2eN
+LhGCKoqxVh0E94ZZCd2sQQglYxxOUwfGQdIZJWJJBICIqeYeh2+QMVDQNibMc6cU
+4cBF6qgWirMY8xgYE4JxHUvhUdPYVl6ghIrg0/SCZpX1clOPSkA7B7ePRivtaPHY
+QrNdUfvkmT8794i2ouTHl8Gni7tfvy9MbzzYfP726vTxzfvvo/PLp9avzF6/Wm5F
+09m5b5fe3FpbOn65WHq6d3DtxP76TO2eHUz2Pug7g8WftJzdOw==
+=91sM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vgk2
+
+==================================================================
